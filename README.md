@@ -9,6 +9,7 @@ Este proyecto es una API simple para la gestión de libros utilizando **FastAPI*
 
 ## 📂 Estructura del proyecto
 
+```
 my-fastapi-sqlite-books/
 │── books.py            # Puntos de entrada de la API (routers/endpoints)
 │── models.py           # Definición de modelos Pydantic / SQLAlchemy
@@ -18,6 +19,7 @@ my-fastapi-sqlite-books/
 │── pyproject.toml      # Dependencias y configuración (Poetry)
 │── uv.lock             # Lockfile de Poetry
 │── Clase6_FastAPI.ipynb # Notebook de ejemplos
+```
 
 ## 🛠 Instalación
 
@@ -27,3 +29,4 @@ Clona el repositorio y entra al directorio:
 git clone https://github.com/tu_usuario/my-fastapi-sqlite-books.git
 cd my-fastapi-sqlite-books
 ```
+
